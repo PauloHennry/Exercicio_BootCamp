@@ -1,0 +1,16 @@
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.exe
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.deps.json
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.runtimeconfig.json
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.runtimeconfig.dev.json
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.dll
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\ref\cSharp-Exemples.dll
+C:\Csharp-Exemples\cSharp-Exemples\bin\Debug\net5.0\cSharp-Exemples.pdb
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.csproj.AssemblyReference.cache
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.AssemblyInfoInputs.cache
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.AssemblyInfo.cs
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.csproj.CoreCompileInputs.cache
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.dll
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\ref\cSharp-Exemples.dll
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.pdb
+C:\Csharp-Exemples\cSharp-Exemples\obj\Debug\net5.0\cSharp-Exemples.genruntimeconfig.cache
